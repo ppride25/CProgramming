@@ -3,11 +3,9 @@
 
 int main (void)
 {
-    int counter=3;
 
-    while (counter > 0)
+    for (int i=0; i<20;i++)
     {
-        printf ("meowwww\n");
-        counter--;
+        printf("meoww\n");
     }
 }
