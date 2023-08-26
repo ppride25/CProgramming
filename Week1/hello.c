@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int x = 2;
+    int x = 1;
     int y = 1;
 
     if (x>y)
@@ -13,7 +13,7 @@ int main(void)
     {
         printf("x isn't greater than y \n");
     }
-    else if (x==y)
+    else
     {
         printf ("x is equal to y \n");
     }
